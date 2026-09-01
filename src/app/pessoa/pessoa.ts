@@ -2,8 +2,10 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-pessoa',
-  imports: [],
   templateUrl: './pessoa.html',
-  styleUrl: './pessoa.css',
+  styleUrl: './pessoa.css'
 })
-export class Pessoa {}
+export class Pessoa {
+  nome = 'Ana Souza';
+  curso = 'Engenharia de Computação';
+}
