@@ -3,11 +3,19 @@
   "version": 1,
   "cli": {
     "packageManager": "npm",
+<<<<<<< HEAD
     "analytics": "92969b7d-4b2c-4747-9926-9d672cb29d5a"
   },
   "newProjectRoot": "projects",
   "projects": {
     "aagenda-unijorge": {
+=======
+    "analytics": "82cae9ff-3c05-4b28-9afc-9124cdb9f936"
+  },
+  "newProjectRoot": "projects",
+  "projects": {
+    "agenda-unijorge": {
+>>>>>>> df1203bb5b2c10b0d44ce3011c2cfe0ace1936df
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -65,10 +73,17 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
+<<<<<<< HEAD
               "buildTarget": "aagenda-unijorge:build:production"
             },
             "development": {
               "buildTarget": "aagenda-unijorge:build:development"
+=======
+              "buildTarget": "agenda-unijorge:build:production"
+            },
+            "development": {
+              "buildTarget": "agenda-unijorge:build:development"
+>>>>>>> df1203bb5b2c10b0d44ce3011c2cfe0ace1936df
             }
           },
           "defaultConfiguration": "development"

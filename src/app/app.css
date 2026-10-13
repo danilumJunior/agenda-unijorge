@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .menu {
   display: flex;
   gap: 16px;
@@ -17,3 +18,13 @@
   color: #1e3a8a !important;
   font-weight: bold;
 }
+=======
+.menu a {
+  margin-right: 16px;
+  text-decoration: none;
+}
+.menu a.ativo {
+  font-weight: 700;
+  border-bottom: 2px solid;
+}
+>>>>>>> df1203bb5b2c10b0d44ce3011c2cfe0ace1936df

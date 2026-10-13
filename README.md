@@ -1,6 +1,10 @@
 # AgendaUnijorge
 
+<<<<<<< HEAD
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.2.1.
+=======
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.1.4.
+>>>>>>> df1203bb5b2c10b0d44ce3011c2cfe0ace1936df
 
 ## Development server
 
@@ -57,3 +61,8 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> df1203bb5b2c10b0d44ce3011c2cfe0ace1936df
